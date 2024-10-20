@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"nic","Source":"./modules/nic","Dir":"modules/nic"},{"Key":"resource_group","Source":"./modules/resource_group","Dir":"modules/resource_group"},{"Key":"subnet","Source":"./modules/subnet","Dir":"modules/subnet"},{"Key":"vnet","Source":"./modules/vnet","Dir":"modules/vnet"}]}
